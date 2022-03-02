@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Subjects
 
+- Semantic UI
 - Modules
 - Routing
 - RouterOutlet
@@ -12,6 +13,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - LazyLoading
 - NgContent
 - NgContent with Selects
+- Child Navigation Routes
+- RouterLink Configuration - References - Syntax
+- Matching exact Paths
 
 ## Development server
 
